@@ -30,7 +30,3 @@ python3 library_shelf.py
 ## Progress
 
 New projects will be added regularly as part of my daily coding practice. This repository will grow over time as I learn, experiment, and improve.
-
-## License
-
-These are personal learning projects. Feel free to explore the code and use it for educational purposes.
